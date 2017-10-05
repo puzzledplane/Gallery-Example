@@ -6,4 +6,4 @@ The following is an example photo gallery built on the Angular 4 framework. It w
 AngularJS following this tutorial: https://www.youtube.com/watch?v=V5-CIZTLyvw
 
 
-All credit goes to Wes Doyle
+All credit goes to Wes Doyle (https://github.com/wesdoyle)
